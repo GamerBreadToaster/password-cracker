@@ -1,0 +1,11 @@
+||random options||
+password random:
+False
+random amount of letters:
+False
+amount of letters:
+4
+
+||more options||
+the program knows how many letters there are:
+False
